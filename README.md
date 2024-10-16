@@ -1,11 +1,8 @@
----
-name: React Content Script UI
-description: Basic example of using createShadowRootUi with React.
-apis:
-  - createShadowRootUi
----
+Here is the link for the screen recording of the preview of the app
+
+https://drive.google.com/file/d/1oT0McfEYci1kD3_6m1XsXS9bM5CU-FJf/view?usp=sharing
 
 ```sh
-pnpm i
-pnpm dev
+npm i
+npm run dev
 ```
